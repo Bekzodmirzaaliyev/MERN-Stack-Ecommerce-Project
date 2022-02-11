@@ -37,6 +37,3 @@ _заполните каждое поле своей информацией со
 **Instagram** Click [Here](https://www.instagram.com/b_r_o228) **Bekzod Mirzaaliyev**
 **LinkedIn** Click [Here](https://www.linkedin.com/in/%D0%B1%D0%B5%D0%BA%D0%B7%D0%BE%D0%B4-%D0%BC%D0%B8%D1%80%D0%B7%D0%B0%D0%B0%D0%BB%D0%B8%D0%B5%D0%B2-5b9a2b229/) **Bekzod Mirzaaliyev**
 **Telegram** Click [Here](https://t.me/b_r_o015) **Bekzod Mirzaaliyev**
-#� �M�E�R�N�-�S�t�a�c�k�-�E�c�o�m�m�e�r�c�e�-�P�r�o�j�e�c�t�
-�
-�
