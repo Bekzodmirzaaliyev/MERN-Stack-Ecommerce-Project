@@ -1,0 +1,4 @@
+[build]
+    base = "dist"
+    command = "npm run heroku-postbuild"
+    publish = "dist/react-firebase-app"
